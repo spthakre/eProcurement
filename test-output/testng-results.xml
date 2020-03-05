@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="13595" started-at="2020-03-05T13:59:36Z" finished-at="2020-03-05T13:59:49Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="13595" started-at="2020-03-05T13:59:36Z" finished-at="2020-03-05T13:59:49Z">
+      <class name="com.jbk.EProc.TestCases.LoginPageTests">
+        <test-method status="PASS" signature="loadProperties()[pri:0, instance:com.jbk.EProc.TestCases.LoginPageTests@402a079c]" name="loadProperties" is-config="true" duration-ms="31" started-at="2020-03-05T19:29:36Z" finished-at="2020-03-05T19:29:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadProperties -->
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.jbk.EProc.TestCases.LoginPageTests@402a079c]" name="openBrowser" is-config="true" duration-ms="11288" started-at="2020-03-05T19:29:36Z" finished-at="2020-03-05T19:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="offWebLogoTestCase()[pri:0, instance:com.jbk.EProc.TestCases.LoginPageTests@402a079c]" name="offWebLogoTestCase" duration-ms="135" started-at="2020-03-05T19:29:47Z" finished-at="2020-03-05T19:29:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- offWebLogoTestCase -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.jbk.EProc.TestCases.LoginPageTests@402a079c]" name="closeBrowser" is-config="true" duration-ms="2159" started-at="2020-03-05T19:29:47Z" finished-at="2020-03-05T19:29:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.jbk.EProc.TestCases.LoginPageTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
