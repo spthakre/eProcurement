@@ -3,13 +3,11 @@
 <suite name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.jbk.EProc.TestCases.LoginPageTests">
+      <class name="com.jbk.EProc.TestCases.ExcelTestCase">
         <methods>
-          <include name="openBrowser"/>
-          <include name="loadProperties"/>
-          <include name="offWebLogoTestCase"/>
+          <include name="data" invocation-numbers="0"/>
         </methods>
-      </class> <!-- com.jbk.EProc.TestCases.LoginPageTests -->
+      </class> <!-- com.jbk.EProc.TestCases.ExcelTestCase -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
